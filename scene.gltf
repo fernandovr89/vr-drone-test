@@ -7597,34 +7597,34 @@
   ],
   "images": [
     {
-      "uri": "textures/material_baseColor.png"
+      "uri": "material_baseColor.png"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "material_normal.png"
     },
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "material_metallicRoughness.png"
     },
     {
-      "uri": "textures/body_baseColor.png"
+      "uri": "body_baseColor.png"
     },
     {
-      "uri": "textures/body_emissive.png"
+      "uri": "body_emissive.png"
     },
     {
-      "uri": "textures/body_metallicRoughness.png"
+      "uri": "body_metallicRoughness.png"
     },
     {
-      "uri": "textures/body_normal.png"
+      "uri": "body_normal.png"
     },
     {
-      "uri": "textures/Boden_baseColor.png"
+      "uri": "Boden_baseColor.png"
     },
     {
-      "uri": "textures/Boden_metallicRoughness.png"
+      "uri": "Boden_metallicRoughness.png"
     },
     {
-      "uri": "textures/Boden_normal.png"
+      "uri": "Boden_normal.png"
     }
   ],
   "materials": [
