@@ -1,0 +1,131 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5125,
+            "count" : 239610,
+            "max" : [
+                235408
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 235409,
+            "max" : [
+                50.0,
+                33.316009521484375,
+                21.86225128173828
+            ],
+            "min" : [
+                -50.0,
+                -33.316009521484375,
+                -0.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 235409,
+            "max" : [
+                0.9997828602790833,
+                0.9997822046279907,
+                -0.01500420831143856
+            ],
+            "min" : [
+                -0.9997788667678833,
+                -0.9997780919075012,
+                -1.0
+            ],
+            "type" : "VEC3"
+        }
+    ],
+    "animations" : [],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 958440,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2824908,
+            "byteOffset" : 958440,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2824908,
+            "byteOffset" : 3783348,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 6608256,
+            "uri" : "101_Box4_mtw_grd04.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "object",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1
+                    },
+                    "indices" : 0
+                }
+            ]
+        },
+        {
+            "name" : "object_Object",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1
+                    },
+                    "indices" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 1,
+            "name" : "Object",
+            "rotation" : [
+                -0.7070798277854919,
+                -0.006170664913952351,
+                -0.006170663516968489,
+                0.7070798873901367
+            ],
+            "scale" : [
+                -0.10000000149011612,
+                -0.10000000149011612,
+                -0.10000000149011612
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
