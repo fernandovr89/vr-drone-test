@@ -1,0 +1,165 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5125,
+            "count" : 239610,
+            "max" : [
+                239609
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 239610,
+            "max" : [
+                50.0,
+                33.316009521484375,
+                21.86225128173828
+            ],
+            "min" : [
+                -50.0,
+                -33.316009521484375,
+                -0.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 239610,
+            "max" : [
+                0.9997828602790833,
+                0.9997822046279907,
+                -0.01500420831143856
+            ],
+            "min" : [
+                -0.9997788667678833,
+                -0.9997780919075012,
+                -1.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 239610,
+            "max" : [
+                0.9999949932098389,
+                0.44872355461120605,
+                0.9976543188095093,
+                1.0
+            ],
+            "min" : [
+                -0.33442699909210205,
+                -0.4516445994377136,
+                -0.997704029083252,
+                -1.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 239610,
+            "max" : [
+                0.6490883827209473,
+                0.6026686131954193
+            ],
+            "min" : [
+                0.2526267170906067,
+                0.21467125415802002
+            ],
+            "type" : "VEC2"
+        }
+    ],
+    "animations" : [],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 958440,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2875320,
+            "byteOffset" : 958440,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2875320,
+            "byteOffset" : 3833760,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3833760,
+            "byteOffset" : 6709080,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1916880,
+            "byteOffset" : 10542840,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 12459720,
+            "uri" : "101_Box4_mtw_grd05.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "object",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1,
+                        "TANGENT" : 3,
+                        "TEXCOORD_0" : 4
+                    },
+                    "indices" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Object",
+            "rotation" : [
+                -0.7070798277854919,
+                -0.006170664913952351,
+                -0.006170663516968489,
+                0.7070798873901367
+            ],
+            "scale" : [
+                -0.10000000149011612,
+                -0.10000000149011612,
+                -0.10000000149011612
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
